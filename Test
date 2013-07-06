@@ -1,0 +1,13 @@
+<html>
+  <head>
+		<title>Loving the font changes</title>
+	</head>
+	<body>
+		<h1>Big title</h1>
+		 <ol>
+		 	<li>This item is big Garamond.</li>
+		 	<li>This item is medium Verdana.</li>
+		 	<li>This item is small Impact.</li>
+		 </ol>
+	</body>
+</html>
